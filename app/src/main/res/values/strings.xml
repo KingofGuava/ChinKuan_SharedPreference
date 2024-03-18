@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharedPreference</string>
+    <string name="img_description">THis is my artwork</string>
+</resources>
